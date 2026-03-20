@@ -4,14 +4,6 @@ Autonomous maze navigation using ORB-SLAM3 and ROS2. A simulated robot builds a 
 
 Built as the final project for the Bachelor's in Computer Science and Engineering at the University of Beira Interior (2024).
 
----
-
-## Demo
-
-> *Screenshots or a video recording of the simulation running would go here.*
-
----
-
 ## How It Works
 
 1. **Simulation** — a differential-drive robot with a monocular camera is spawned in a Gazebo environment defined via URDF/XACRO
